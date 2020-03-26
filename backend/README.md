@@ -1,5 +1,5 @@
 # Semanaoministack, be-the-hero
-Projeto desenvolvido durante a semana oministack, que consiste em um sistema completo(api, site e app) para que ongs possam receber doações para executar seus projetos.
+API da nossa aplicação, desenvolvida com as teclogias `NodeJS`, `Express`, `knex`, `Sqlite`.
 
 ## Inicializar banco
 Para aplicar as migrações e consequentemente crir o nosso banco de dados, rode o seguinte comando:
