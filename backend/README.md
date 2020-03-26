@@ -1,5 +1,5 @@
 # Semanaoministack, be-the-hero
-API da nossa aplicação, desenvolvida com as teclogias `NodeJS`, `Express`, `knex`, `Sqlite`.
+API da nossa aplicação, desenvolvida com as tecnologias `NodeJS`, `Express`, `knex`, `Sqlite`.
 
 ## Inicializar banco
 Para aplicar as migrações e consequentemente crir o nosso banco de dados, rode o seguinte comando:
